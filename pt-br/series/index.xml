@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Digitalentosa</title>
-    <link>https://cscholles.github.io/hibiscus/pt-br/series/</link>
+    <link>https://cscholles.github.io/hibiscus_tea/pt-br/series/</link>
     <description>Recent content in Series on Digitalentosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Digitalentosa - Origin Theme</copyright><atom:link href="https://cscholles.github.io/hibiscus/pt-br/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Digitalentosa - Origin Theme</copyright><atom:link href="https://cscholles.github.io/hibiscus_tea/pt-br/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

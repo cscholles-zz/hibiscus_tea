@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digitalentosa</title>
-    <link>https://cscholles.github.io/hibiscus/pt-br/</link>
+    <link>https://cscholles.github.io/hibiscus_tea/pt-br/</link>
     <description>Recent content on Digitalentosa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Digitalentosa - Origin Theme</copyright><atom:link href="https://cscholles.github.io/hibiscus/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Digitalentosa - Origin Theme</copyright><atom:link href="https://cscholles.github.io/hibiscus_tea/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sobre</title>
-      <link>https://cscholles.github.io/hibiscus/pt-br/sobre/</link>
+      <link>https://cscholles.github.io/hibiscus_tea/pt-br/sobre/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cscholles.github.io/hibiscus/pt-br/sobre/</guid>
+      <guid>https://cscholles.github.io/hibiscus_tea/pt-br/sobre/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
